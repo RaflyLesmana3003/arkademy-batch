@@ -1,7 +1,8 @@
 # arkademy-bootcamp
 test arkademy bootcamp - B16K1-E
 
-> im so sorry i can't working on 6 question, because my laptop :( i dont have hdd therefore i work with google colab, and iam  start working the test at 3pm yeah, that my mistake. my goals to joining this bootcamp is to change my life. thanks for the oppurtunity. fyi: because this test i've to add mathematical equation to my project hehe im so happy
+> im so sorry i can't working on 6 question, because my laptop :( i dont have hdd therefore i work with google colab, and iam  start working the test at 3pm yeah, that my mistake. my goals to joining this bootcamp is to change my life. thanks for the oppurtunity. 
+fyi: because this test i've to add mathematical equation to my project hehe im so happy
 
 ## programming tools
 1. google colab
